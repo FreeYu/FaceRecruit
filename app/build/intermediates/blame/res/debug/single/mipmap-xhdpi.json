@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\work\\android\\kunyue\\workspace\\FaceRecruit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\work\\android\\kunyue\\workspace\\FaceRecruit\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\work\\android\\kunyue\\workspace\\FaceRecruit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "E:\\work\\android\\kunyue\\workspace\\FaceRecruit\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]
